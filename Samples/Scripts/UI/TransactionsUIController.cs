@@ -17,8 +17,8 @@ public class TransactionsUIController : MonoBehaviour
 
     public TMP_InputField Output;
 
-    private string SharedCounterObjectId = "0x646fbf937f2ee69a811ee98101f7e5dbab5998c1";
-    private string PackageObjectId = "0xdfa9944199d05cda34d29dac482ce6f2528fee8d";
+    private string SharedCounterObjectId = "0x823bfc13ccfbf4156d2d724e6b9f8286c2171f69";
+    private string PackageObjectId = "0xf637e0486b7d7fb3d7c6fd97639731bb5bd5e3c0";
 
     private async void Start()
     {
